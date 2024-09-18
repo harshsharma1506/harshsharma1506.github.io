@@ -10,7 +10,7 @@ Looking ahead, I’m excited to expand my skill set by diving into JavaScript an
 
 Before diving into ABAP, I had a blast as a Python developer, crafting dynamic web applications using Django and working extensively with SQL. Those experiences not only honed my coding skills but also ignited my passion for building innovative solutions that address real-world problems.
 
-## Side Projects 
+## 🖥️ Side Projects 
 
 1. [Cricket 2K24 GUI](https://github.com/harshsharma1506/cricket_2k24_gui_abap)
    This is an ABAP version of an offline game that kids play in India, it's often called 'Hand Cricket', it revolves around 
