@@ -3,27 +3,24 @@
 
 ## 🤷 What I do
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Currently, I’m immersed in the world of ABAP, where I collaborate closely with the Business Intelligence (BI), Sales and Distribution (SD), and Financial Accounting & Controlling (FICO) modules. My role involves developing custom solutions and enhancing existing functionalities to streamline processes and improve data accessibility for users.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Looking ahead, I’m excited to expand my skill set by diving into JavaScript and SAPUI5. I believe that these technologies will not only enhance my development capabilities but also enable me to create more interactive and user-friendly applications. I’m eager to explore how I can leverage them to deliver even greater value in my projects.
 
 ## 🦕 What I've done before
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
-
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
-
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+Before diving into ABAP, I had a blast as a Python developer, crafting dynamic web applications using Django and working extensively with SQL. Those experiences not only honed my coding skills but also ignited my passion for building innovative solutions that address real-world problems.
 
 ## 👋🏻 Say hi
 
 Wanna chat? Feel free to reach out!
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
+- Mail me [Gmail](mailto:harrypressplay@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/harsh-sharma-521a30217)
 
 ## 📠 Fun facts
 
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+-  In year 2022, I was a founder a startup that never really blew up 😆, name was port ( sounds familiar ? )
+-  I have a strange obsession with simple yet complex syntax !
+-  I hated SAP before getting into it, now that I am into the ERP space, I have fallen in love
+-  I got published twice with my poetry appearing in various literary magazines. 🥂
