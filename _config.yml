@@ -5,11 +5,11 @@
 #
 
 # no trailing slash
-url: https://point-theme.netlify.app
+url: https://harshsharma1506.github.io
 
 # for header and meta tags
-title: Point Theme 🎯
-description: description for search engines and social media cards
+title: Harry's Garden
+description: Welcome to my digital garden, I will post blogs about tech, ERP and literature 
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -20,17 +20,18 @@ nav-links:
   - name: Blog
     url: /blog
     external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
-    external: true
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: Hello! I'm Harsh Sharma, but you can call me Harry. I'm a passionate software developer with a strong focus on SAP ABAP, SQL, and Python. My journey in tech has been fueled by a love for problem-solving and a commitment to leveraging open source technologies to create impactful solutions.
+
+Beyond the world of code, I have a deep appreciation for literature. I believe that storytelling and technology go hand in hand, each offering unique insights into the human experience. Here, you'll find a blend of my technical projects, insights into my favorite reads, and a glimpse into my ongoing journey as a developer.
+
+Thank you for visiting, and I hope you enjoy exploring my work!
 
 # show blog post excerpts on blog page
-show_excerpts: false
+show_excerpts: true
 excerpt_word_count: 70
 
 # long date: April 20, 1969
