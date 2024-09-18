@@ -12,18 +12,19 @@ Before diving into ABAP, I had a blast as a Python developer, crafting dynamic w
 
 ## 🖥️ Side Projects 
 
-1. [Cricket 2K24 GUI](https://github.com/harshsharma1506/cricket_2k24_gui_abap)
+1. 🏏 [Cricket 2K24 GUI](https://github.com/harshsharma1506/cricket_2k24_gui_abap)
    This is an ABAP version of an offline game that kids play in India, it's often called 'Hand Cricket', it revolves around 
    the odd and even numbers for decision making.
 
-2. [Learning Management System Redesign for HCL TSS](https://github.com/harshsharma1506/lms-redesign)
+2. 👨‍🎓 [LMS for HCL TSS](https://github.com/harshsharma1506/lms-redesign)
    A redesign of LMs made using HTML CSS JS Django, this received very good response from the learners and was quite a hit
 
-3. [BOM where used list standard function extension](https://github.com/harshsharma1506/CS15_WITH_MULTIPLE_MAT)
+3. 🚧 [BOM where used list standard function extension](https://github.com/harshsharma1506/CS15_WITH_MULTIPLE_MAT)
    This is a custom version of CS15 where you can enter multiple BOMs and get the operations ready from the BAPI
 
-4. [Pixy - Photo sharing app](https://github.com/harshsharma1506/Pixy-photo-sharing-app)
+4. 📷 [Pixy - Photo sharing app](https://github.com/harshsharma1506/Pixy-photo-sharing-app)
    Pixy was a small photo sharing app, like the olden days of instagram implemented in python / django
+
 ## 👋🏻 Say hi
 
 Wanna chat? Feel free to reach out!
